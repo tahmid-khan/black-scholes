@@ -1,0 +1,4 @@
+matplotlib
+mibian
+numpy
+scipy
