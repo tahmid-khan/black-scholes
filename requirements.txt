@@ -2,3 +2,5 @@ matplotlib
 mibian
 numpy
 scipy
+qiskit
+ibm-quantum-runtime
